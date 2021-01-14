@@ -25,7 +25,7 @@ const Header = ({ siteTitle }) => (
       >
         <b>{siteTitle}</b>
       </Link>
-      <a href="https://cbu0.sharepoint.com/sites/ttomegadelta" target="_blank"> Sharepoint</a>
+      <a href="https://cbu0.sharepoint.com/sites/ttomegadelta" target="_blank" rel="noopener"> Sharepoint</a>
       <a href="/contact">Contact Us</a>
       <a href="/rush">Rush</a>
       <a href="/members">Members</a>

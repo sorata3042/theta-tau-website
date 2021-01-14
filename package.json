@@ -1,7 +1,7 @@
 {
-  "name": "steven-chau-portfolio",
+  "name": "theta-tau-omega-delta",
   "private": true,
-  "description": "A website portfolio",
+  "description": "A website for the Omega Delta Chapter of Theta Tau",
   "version": "0.1.0",
   "author": "Steven Chau",
   "dependencies": {

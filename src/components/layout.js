@@ -43,10 +43,10 @@ const Layout = ({ children }) => {
         height: `2.5rem`,
         padding: `0.5rem`,
       }}>
-        By Steven Chau
-        © {new Date().getFullYear()}, Built with
+        By <a href="https://github.com/sorata3042" target="_blank" rel="noopener">Steven Chau</a>
+        , Built with
         {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <a href="https://www.gatsbyjs.com" target="_blank" rel="noopener">Gatsby</a> © {new Date().getFullYear()}
       </footer>
     </>
   )

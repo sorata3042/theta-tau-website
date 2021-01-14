@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{IL7C:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),c=t.n(n),r=(t("Wbzz"),t("Bl7J")),i=t("vrFN");a.default=function(){return c.a.createElement(r.a,null,c.a.createElement(i.a,{title:"Home"}),c.a.createElement("h1",null,"about me"),c.a.createElement("p",null,"I am currently pursuing a Bachelor of Science in Computer Science and Mathematics with an anticipated graduation date of May 2022."))}}}]);
+//# sourceMappingURL=component---src-pages-rush-js-2fed1a5191a10dcf4623.js.map
