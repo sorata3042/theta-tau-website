@@ -673,14 +673,14 @@ pre tt:after {
 
 
 .parallax {
-  background-image: url('https://collegesofdistinction.com/wp-content/uploads/2019/07/CBU-Campus-Belltower-1332x888.jpeg');
+  background-image: url('../images/background.jpg');
   min-height: 600px; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-left: -300vw;
-  margin-right: -300vw;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 .header {

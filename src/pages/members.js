@@ -9,63 +9,128 @@ const IndexPage = () => (
   <Layout>
   <h1> Our Members </h1>
   <div style={{boxSizing: `border-box`}}>
+
+  <h2> Iota Pledge Class </h2> Initiated Fall 2019
+  <div class="row">
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Daena Gonzalez</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2023</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Koung Nonhprasith</b>
+            <p>Computer Science</p>
+            <p>Class of 2022</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Brianna Jordan</b>
+            <p>Engineering Management</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Abby Stutz</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2022</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Faythe Watkins</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2023</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <h2> Theta Pledge Class </h2> Initiated Spring 2019
   <div class="row">
     <div class="column4">
       <div class="container">
-          <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
-            <div class="overlay">
-              <div class="text">
-                <b>Frederic Oweijane</b>
-                <p>CS, Math, & EE</p>
-                <p>Class of 2022</p>
-              </div>
-            </div>
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Frederic Oweijane</b>
+            <p>CS, Math, & EE</p>
+            <p>Class of 2022</p>
+          </div>
         </div>
+      </div>
     </div>
     <div class="column4">
       <div class="container">
-          <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
-              <div class="overlay">
-                  <div class="text">
-                    <b>Brandon Chen</b>
-                    <p>Computer Science & Mathematics</p>
-                    <p>Class of 2022</p>
-                  </div>
-              </div>
-          </div>
-      </div>
-      <div class="column4">
-        <div class="container">
-          <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
-          <div class="overlay">
-              <div class="text">
-                <b>Jean Melo</b>
-                <p>Mechanical Engineering</p>
-                <p>Class of 2022</p>
-              </div>
-          </div>
-      </div>
-      </div>
-      <div class="column4">
-        <div class="container">
-          <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
-          <div class="overlay">
-            <div class="text">
-              <b>Stacy Okai</b>
-              <p>Electrical Engineering</p>
-              <p>Class of 2021 </p>
-            </div>
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Brandon Chen</b>
+            <p>Computer Science & Mathematics</p>
+            <p>Class of 2022</p>
           </div>
         </div>
       </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Jean Melo</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2022</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Stacy Okai</b>
+            <p>Electrical Engineering</p>
+            <p>Class of 2021 </p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 
   <h1> Eta Pledge Class </h1> Initiated Fall 2018
   <div class="row">
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Jose Pablo Villa</b>
@@ -77,7 +142,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Ali Assad</b>
@@ -89,7 +154,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Pascal Bedrossian</b>
@@ -101,7 +166,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Josue Bohorquez</b>
@@ -113,7 +178,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Steven Chau</b>
@@ -125,7 +190,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Francisco Delgado</b>
@@ -137,7 +202,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Michael Fox</b>
@@ -149,7 +214,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Lauren Hagood</b>
@@ -161,7 +226,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Nicholas Martin</b>
@@ -173,7 +238,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Oscar Montoya</b>
@@ -185,7 +250,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Carlos Najera</b>
@@ -197,7 +262,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Skylar Newman</b>
@@ -209,7 +274,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Justin Rech</b>
@@ -221,7 +286,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Alandria Waller</b>
@@ -233,7 +298,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Rosemarie Wiethop</b>
@@ -247,7 +312,126 @@ const IndexPage = () => (
 
   <h1> Zeta Pledge Class </h1> Initiated Spring 2018
   <div class="row">
-
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_82.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Sean Williams</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2021</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_83.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Austin Burgess</b>
+            <p>Chemical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_84.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Mathias Fagan</b>
+            <p>Chemical Engineering</p>
+            <p>Class of 2021</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_85.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Tomas Jimenez-Guzman</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Angel Mendez</b>
+            <p>Chemical Engineering</p>
+            <p>Class of 2021</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_87.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Andrew Nguyen</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2021</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_88.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Jose Reyes Rios</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_89.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Allison Sorette</b>
+            <p>Civil Engineering</p>
+            <p>Class of 2021</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_90.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Manuel Sosa</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2021</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_91.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Brandy Washington </b>
+            <p>Computer Science & Electrical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 
   <h1> Epsilon Pledge Class </h1> Initiated Fall 2017
@@ -326,7 +510,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_76.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Marcos Mendez</b>
@@ -440,15 +624,157 @@ const IndexPage = () => (
 
   <h1> Gamma Pledge Class </h1> Initiated Fall 2016
   <div class="row">
-
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Angel Cecerre</b>
+            <p>Engineering Management</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_52.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Sriya Bahunthula</b>
+            <p>Computer Science & Cyber Security</p>
+            <p>Class of 2019</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_53.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Cameron Hart</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_54.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Jillian Johnson</b>
+            <p>Computer Science & Electrical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_55.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Mitchell McCreless</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Michael Connor Meeks</b>
+            <p>Electrical Engineering</p>
+            <p>Class of 2018</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_57.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>James Alex Moses</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2019</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Sammy Nguyen</b>
+            <p>Computer Science & Electrical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_90.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Clark Ohsfeldt</b>
+            <p>Civil Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_60.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Rachel Pham </b>
+            <p>Computer Science</p>
+            <p>Class of 2021</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Ana-Karen Rodriguez</b>
+            <p>Civil Engineering</p>
+            <p>Class of 2018</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_62.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Shinnosuke Taniguchi </b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-
 
   <h1> Beta Pledge Class </h1> Initiated Spring 2016
   <div class="row">
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="Composite_46.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Connor Thompson</b>
@@ -460,7 +786,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="Composite_47.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Nicholas Drane</b>
@@ -472,7 +798,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="Composite_48.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Andrew Ozanich</b>
@@ -484,7 +810,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Maximiliano Gomez-Pedro</b>
@@ -496,7 +822,7 @@ const IndexPage = () => (
     </div>
       <div class="column4">
         <div class="container">
-          <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+          <Image filename="No_Composite.jpg" />
           <div class="overlay">
             <div class="text">
               <b>Melissa Tammi</b>
@@ -510,15 +836,265 @@ const IndexPage = () => (
 
   <h1> Alpha Pledge Class </h1> Initiated Fall 2015
   <div class="row">
-
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Ibrahim Chum</b>
+            <p>Civil Engineering</p>
+            <p>Class of 2018</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Dalton Bailey</b>
+            <p>Chemical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Tristan Barton</b>
+            <p>Natural Science</p>
+            <p>Class of 2019</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_28.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Christopher Clark</b>
+            <p>Civil Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Maverick Difuntorum</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2016</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Melissa Dollar</b>
+            <p>Electrical Engineering</p>
+            <p>Class of 2017</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Joseph Graham</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2018</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Corbin Harris</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of ????</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Jack Hummel</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2017</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_34.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Alexa-Marie Kintanar</b>
+            <p>Computer Science & Electrical Engineering</p>
+            <p>Class of 2019</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="Composite_35.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Olivia Koonce</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2019</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Efren Peleaz</b>
+            <p>Chemical Engineering</p>
+            <p>Class of 2019</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Emily McClure</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2018</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Hailey McKinney</b>
+            <p>Biochemical Engineering</p>
+            <p>Class of 2018</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Kaila Muhammad</b>
+            <p>Chemical Engineering</p>
+            <p>Class of 2018</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Abin Nellamkuzhyil</b>
+            <p>Computer Science & Electrical Engineering</p>
+            <p>Class of 2018</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Jose Oliva</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2016</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Jose Reyes</b>
+            <p>Chemical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Christopher Cody Richardson</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Alexander Rivera</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Clark Wadlington</b>
+            <p></p>
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-
 
   <h1> Founding Class </h1>
   <div class="row">
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Cathy Holmes</b>
@@ -530,7 +1106,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Aryanne Johnson</b>
@@ -542,7 +1118,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Alexander McCormick</b>
@@ -554,7 +1130,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Megan Pitts</b>
@@ -566,7 +1142,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Patrick McGinnis</b>
@@ -578,7 +1154,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Tyler Standburg</b>
@@ -590,7 +1166,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Ethan Hunter</b>
@@ -602,7 +1178,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Paul Brown</b>
@@ -614,7 +1190,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Jennifer Gonzalez</b>
@@ -626,7 +1202,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Noah Kelley</b>
@@ -638,7 +1214,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Rebecca Wauford</b>
@@ -650,7 +1226,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>George Eason</b>
@@ -662,7 +1238,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Raymond McGinnis</b>
@@ -674,7 +1250,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Jodie Crocker</b>
@@ -686,7 +1262,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Jessica Eason</b>
@@ -698,7 +1274,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Austin Feathers</b>
@@ -710,7 +1286,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Jason Owings</b>
@@ -722,7 +1298,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Christopher Rivera</b>
@@ -734,7 +1310,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Robert Tworek</b>
@@ -746,7 +1322,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Juan Carlos Vasquez</b>
@@ -758,7 +1334,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Duy Vi</b>
@@ -770,7 +1346,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Lucas Wade</b>

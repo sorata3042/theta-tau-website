@@ -25,19 +25,19 @@ const IndexPage = () => (
             <div class="column3" >
                 <h3>Brotherhood</h3>
                 <div style={{ maxWidth: `100%` }}>
-                  <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+                  <Image filename="brotherhood.jpg" />
                 </div>
             </div>
             <div class="column3">
                 <h3>Professionalism</h3>
                 <div style={{ maxWidth: `100%` }}>
-                  <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+                  <Image filename="professionalism.png" />
                 </div>
             </div>
             <div class="column3">
                 <h3>Service</h3>
                 <div style={{ maxWidth: `100%` }}>
-                  <Image alt="Theta Tau Crest" filename="ThetaTau.png" />
+                  <Image alt="Habitat for Humanity" filename="service.jpg" />
                 </div>
             </div>
         </div>
