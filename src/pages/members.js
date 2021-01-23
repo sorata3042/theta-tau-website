@@ -10,6 +10,202 @@ const IndexPage = () => (
   <h1> Our Members </h1>
   <div style={{boxSizing: `border-box`}}>
 
+  <h2> Kappa Pledge Class </h2> Initiated Spring 2021
+  <div class="row">
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Caleb Abbot</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Lance Avist</b>
+            <p>Electrical Engineering</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Jacob Bennet</b>
+            <p>Computer Science</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Bailey Buck</b>
+            <p>Engineering Physics</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Noah Crowell</b>
+            <p>Cybersecurity</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Chelsea Dixon</b>
+            <p>Chemical Engineering</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Cyrah Gipson</b>
+            <p>Civil Engineering</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Ritten Gross</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2023</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Ben Lam</b>
+            <p>Computer Science</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Lisbeth Morales</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Matthew Mullins</b>
+            <p>Mechanical Engineering</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Brayan Ortiz</b>
+            <p>Civil Engineering</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Nate Pennington</b>
+            <p>Computer Science & Mathematics</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Jesus Salazar</b>
+            <p>Computer Science & Electrical Engineering</p>
+            <p>Class of 2022</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Wenny Wang</b>
+            <p>Computer Science</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Chris Warner</b>
+            <p>Computer Science & Mathematics</p>
+            <p>Class of 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <h2> Iota Pledge Class </h2> Initiated Fall 2019
   <div class="row">
     <div class="column4">
@@ -266,7 +462,7 @@ const IndexPage = () => (
         <div class="overlay">
           <div class="text">
             <b>Skylar Newman</b>
-            <p>Civil Engineering</p>
+            <p>Computer Science</p>
             <p>Class of 2022</p>
           </div>
         </div>
@@ -454,7 +650,7 @@ const IndexPage = () => (
         <div class="overlay">
           <div class="text">
             <b>John Barry Clark</b>
-            <p>Computer Science & Electrical Engineering</p>
+            <p>Computer Science</p>
             <p>Class of 2021</p>
           </div>
         </div>
@@ -562,7 +758,7 @@ const IndexPage = () => (
         <div class="overlay">
           <div class="text">
             <b>Tanish Surmawala</b>
-            <p>Electrical Engineering</p>
+            <p>Computer Science</p>
             <p>Class of 2020</p>
           </div>
         </div>
@@ -815,7 +1011,7 @@ const IndexPage = () => (
           <div class="text">
             <b>Maximiliano Gomez-Pedro</b>
             <p>Civil Engineering</p>
-            <p>Class of 2019</p>
+            <p>Class of 2021</p>
           </div>
         </div>
       </div>
@@ -838,7 +1034,7 @@ const IndexPage = () => (
   <div class="row">
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_25.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Ibrahim Chum</b>
@@ -850,7 +1046,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_26.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Dalton Bailey</b>
@@ -862,7 +1058,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_27.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Tristan Barton</b>
@@ -886,7 +1082,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_29.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Maverick Difuntorum</b>
@@ -898,7 +1094,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_30.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Melissa Dollar</b>
@@ -910,7 +1106,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_31.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Joseph Graham</b>
@@ -970,7 +1166,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_36.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Efren Peleaz</b>
@@ -982,7 +1178,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_37.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Emily McClure</b>
@@ -994,7 +1190,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_38.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Hailey McKinney</b>
@@ -1006,7 +1202,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_39.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Kaila Muhammad</b>
@@ -1030,7 +1226,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_41.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Jose Oliva</b>
@@ -1042,7 +1238,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_42.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Jose Reyes</b>
@@ -1066,7 +1262,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_44.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Alexander Rivera</b>
@@ -1078,7 +1274,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_45.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Clark Wadlington</b>
@@ -1094,7 +1290,7 @@ const IndexPage = () => (
   <div class="row">
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_1.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Cathy Holmes</b>
@@ -1106,7 +1302,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_2.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Aryanne Johnson</b>
@@ -1118,7 +1314,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_3.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Alexander McCormick</b>
@@ -1130,7 +1326,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_4.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Megan Pitts</b>
@@ -1178,7 +1374,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_8.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Paul Brown</b>
@@ -1202,7 +1398,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_10.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Noah Kelley</b>
@@ -1214,7 +1410,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_11.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Rebecca Wauford</b>
@@ -1226,7 +1422,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_12.jpg" />
         <div class="overlay">
           <div class="text">
             <b>George Eason</b>
@@ -1238,7 +1434,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_13.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Raymond McGinnis</b>
@@ -1250,7 +1446,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_14.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Jodie Crocker</b>
@@ -1262,7 +1458,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_15.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Jessica Eason</b>
@@ -1274,7 +1470,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_16.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Austin Feathers</b>
@@ -1286,7 +1482,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_17.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Jason Owings</b>
@@ -1298,7 +1494,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_18.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Christopher Rivera</b>
@@ -1310,7 +1506,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_19.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Robert Tworek</b>
@@ -1322,7 +1518,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="No_Composite.jpg" />
+        <Image filename="Composite_20.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Juan Carlos Vasquez</b>
