@@ -31,6 +31,7 @@ const Layout = ({ children }) => {
           margin: `0 auto`,
           maxWidth: 1080,
           padding: `0 1.0875rem 1.45rem`,
+          minHeight: `90vh`,
         }}
       >
         <main>{children}</main>
@@ -42,6 +43,7 @@ const Layout = ({ children }) => {
         textAlign: `center`,
         height: `2.5rem`,
         padding: `0.5rem`,
+        position: `relative`,
       }}>
         By <a href="https://github.com/sorata3042" target="_blank" rel="noopener">Steven Chau</a>
         , Built with

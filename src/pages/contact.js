@@ -6,7 +6,7 @@ import ReCAPTCHA from "react-google-recaptcha"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Contact Me" />
+    <SEO title="Contact" />
         <div className="content">
           <h1>Contact Me</h1>
           <form

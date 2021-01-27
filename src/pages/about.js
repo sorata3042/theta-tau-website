@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="About" />
     <h1> About Us </h1>
     <div className="row">
       <h2>"Whatsoever thy hand findeth to do, do it with thy might;"</h2>

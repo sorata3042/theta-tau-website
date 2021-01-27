@@ -659,11 +659,12 @@ pre tt:after {
 
 .image {
   float: right;
-  padding: 25px;
+  padding: 20px;
   width: 25%;
 }
 .column {
   float: left;
+  padding: 20px;
   width: 75%;
 }
 .column2 {

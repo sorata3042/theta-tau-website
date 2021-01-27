@@ -7,6 +7,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
+  <SEO title="Members" />
   <h1> Our Members </h1>
   <div style={{boxSizing: `border-box`}}>
 
