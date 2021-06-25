@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 //import Image from "../components/image"
 import SEO from "../components/seo"
 
-const IndexPage = () => (
+const RushPage = () => (
   <Layout>
     <SEO title="Rush" />
     <h1>about me</h1>
@@ -13,4 +13,4 @@ const IndexPage = () => (
   </Layout>
 )
 
-export default IndexPage
+export default RushPage

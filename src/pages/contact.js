@@ -4,85 +4,87 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import ReCAPTCHA from "react-google-recaptcha"
 
-const SecondPage = () => (
-  <Layout>
-    <SEO title="Contact" />
+const ContactPage = () => (
+    <Layout>
+        <SEO title="Contact" />
         <div className="content">
-          <h1>Contact Me</h1>
-          <form
+            <h1>Contact Us</h1>
+            Email us at 
+            Follow us on 
+            <form
             name="contact"
             method="POST"
             data-netlify="true"
             data-netlify-honeypot="bot-field"
             data-netlify-recaptcha="true"
             action="/thank-you"
-          >
-          <input type="hidden" name="form-name" value="contact"/>
+            >
+            <input type="hidden" name="form-name" value="contact"/>
             <div class="hidden" style= {{ display:'none' }}>
                 <label>Don’t fill this out if you’re human <input type="hidden" name="bot-field"/></label>
             </div>
             <div>
-              <label className="label" htmlFor={'name'}>
+                <label className="label" htmlFor={'name'}>
                 Name
-              </label>
+                </label>
             </div>
             <div>
-              <input
+                <input
                 type={'text'}
                 name={'name'}
                 id={'name'}
                 required={true}
-              />
+                />
             </div>
             <div>
-              <label className="label" htmlFor={'email'}>
+                <label className="label" htmlFor={'email'}>
                 Email
-              </label>
+                </label>
             </div>
             <div>
-              <input
+                <input
                 className="input"
                 type={'email'}
                 name={'email'}
                 id={'email'}
                 required={true}
-              />
+                />
             </div>
             <div className="field">
-              <label className="label" htmlFor={'subject'}>
+                <label className="label" htmlFor={'subject'}>
                 Subject
-              </label>
+                </label>
             </div>
             <div>
-              <input
+                <input
                 className="input"
                 name={'subject'}
                 id={'subject'}
                 required={false}
-              />
+                />
             </div>
             <div className="field">
-              <label className="label" htmlFor={'message'}>
+                <label className="label" htmlFor={'message'}>
                 Message
-              </label>
+                </label>
             </div>
             <div>
-              <textarea
+                <textarea
                 className="textarea"
                 name={'message'}
                 id={'message'}
                 required={true}
-              />
+                />
             </div>
             <ReCAPTCHA sitekey="YOUR_SITE_KEY" />
             <div className="field">
-              <button class="button" type="submit">
+                <button class="button" type="submit">
                 Send
-              </button>
+                </button>
             </div>
-          </form>
+            </form>
         </div>
   </Layout>
 )
 
-export default SecondPage
+export default ContactPage
