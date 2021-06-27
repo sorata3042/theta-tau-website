@@ -8,13 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <div className="parallax">
-        <div className="header">
-            <span style={{background:`#000`, opacity: `0.8`}}><b> Theta Tau </b></span>
-        </div>
-        <div className="subheader">
-            <span style={{background:`#000`, opacity: `0.8`}}><b> Omega Delta Chapter  </b></span>
-        </div>
+    <div class= "parallax">
     </div>
     <div style={{textAlign:`center`, fontSize:`20px`}} >
         <br></br>

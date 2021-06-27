@@ -17,7 +17,7 @@ const IndexPage = () => (
         <div className="column5">
           <h3>Regent</h3>
           Faythe Watkins
-          <p> <a href="mailto:mbrown27@cbu.edu">vwatkin1@cbu.edu</a></p>
+          <p> <a href="mailto:vwatkin1@cbu.edu">vwatkin1@cbu.edu</a></p>
         </div>
       </div>
       <div class="column2">
@@ -27,7 +27,7 @@ const IndexPage = () => (
         <div className="column5">
           <h3>Vice Regent</h3>
           Mark Novy
-          <p> <a href="mailto:mbrown27@cbu.edu">mnovy@cbu.edu</a></p>
+          <p> <a href="mailto:mnovy@cbu.edu<">mnovy@cbu.edu</a></p>
         </div>
       </div>
     </div>
@@ -39,7 +39,7 @@ const IndexPage = () => (
         <div className="column5">
           <h3>Scribe</h3>
           Victoria Roe
-          <p> <a href="mailto:mbrown27@cbu.edu">vroe@cbu.edu</a></p>
+          <p> <a href="mailto:vroe@cbu.edu">vroe@cbu.edu</a></p>
         </div>
       </div>
       <div class="column2">
@@ -49,7 +49,7 @@ const IndexPage = () => (
         <div className="column5">
           <h3>Treasurer</h3>
           Brandon Chen
-          <p> <a href="mailto:mbrown27@cbu.edu">bchen@cbu.edu</a></p>
+          <p> <a href="mailto:bchen@cbu.edu">bchen@cbu.edu</a></p>
         </div>
       </div>
     </div>
@@ -61,7 +61,7 @@ const IndexPage = () => (
         <div className="column5">
           <h3>Corresponding Secretary</h3>
           Koung Nonhprasith
-          <p> <a href="mailto:mbrown27@cbu.edu">knonhpra@cbu.edu</a></p>
+          <p> <a href="mailto:knonhpra@cbu.edu">knonhpra@cbu.edu</a></p>
         </div>
       </div>
       <div class="column2">

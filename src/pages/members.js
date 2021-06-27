@@ -174,18 +174,6 @@ const IndexPage = () => (
         <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
-            <b>Jesus Salazar</b>
-            <p>Computer Science & Electrical Engineering</p>
-            <p>Class of 2022</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="column4">
-      <div class="container">
-        <Image filename="No_Composite.jpg" />
-        <div class="overlay">
-          <div class="text">
             <b>Wenny Wang</b>
             <p>Computer Science</p>
             <p>Class of 2024</p>
@@ -206,7 +194,21 @@ const IndexPage = () => (
       </div>
     </div>
   </div>
-
+  <h2> Lambda Pledge Class </h2> Initiated Spring 2021
+  <div class="row">
+    <div class="column4">
+      <div class="container">
+        <Image filename="No_Composite.jpg" />
+        <div class="overlay">
+          <div class="text">
+            <b>Jesus Salazar</b>
+            <p>Computer Science & Electrical Engineering</p>
+            <p>Class of 2022</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <h2> Iota Pledge Class </h2> Initiated Fall 2019
   <div class="row">
     <div class="column4">
@@ -323,7 +325,7 @@ const IndexPage = () => (
     </div>
   </div>
 
-  <h1> Eta Pledge Class </h1> Initiated Fall 2018
+  <h2> Eta Pledge Class </h2> Initiated Fall 2018
   <div class="row">
     <div class="column4">
       <div class="container">
@@ -507,7 +509,7 @@ const IndexPage = () => (
     </div>
   </div>
 
-  <h1> Zeta Pledge Class </h1> Initiated Spring 2018
+  <h2> Zeta Pledge Class </h2> Initiated Spring 2018
   <div class="row">
     <div class="column4">
       <div class="container">
@@ -631,7 +633,7 @@ const IndexPage = () => (
     </div>
   </div>
 
-  <h1> Epsilon Pledge Class </h1> Initiated Fall 2017
+  <h2> Epsilon Pledge Class </h2> Initiated Fall 2017
   <div class="row">
     <div class="column4">
       <div class="container">
@@ -767,7 +769,7 @@ const IndexPage = () => (
     </div>
   </div>
 
-  <h1>Delta Pledge Class </h1> Initiated Spring 2017
+  <h2>Delta Pledge Class </h2> Initiated Spring 2017
   <div class="row">
     <div class="column4">
       <div class="container">
@@ -819,7 +821,7 @@ const IndexPage = () => (
     </div>
   </div>
 
-  <h1> Gamma Pledge Class </h1> Initiated Fall 2016
+  <h2> Gamma Pledge Class </h2> Initiated Fall 2016
   <div class="row">
     <div class="column4">
       <div class="container">
@@ -919,7 +921,7 @@ const IndexPage = () => (
     </div>
     <div class="column4">
       <div class="container">
-        <Image filename="Composite_90.jpg" />
+        <Image filename="No_Composite.jpg" />
         <div class="overlay">
           <div class="text">
             <b>Clark Ohsfeldt</b>
@@ -967,7 +969,7 @@ const IndexPage = () => (
     </div>
   </div>
 
-  <h1> Beta Pledge Class </h1> Initiated Spring 2016
+  <h2> Beta Pledge Class </h2> Initiated Spring 2016
   <div class="row">
     <div class="column4">
       <div class="container">
@@ -1031,7 +1033,7 @@ const IndexPage = () => (
       </div>
   </div>
 
-  <h1> Alpha Pledge Class </h1> Initiated Fall 2015
+  <h2> Alpha Pledge Class </h2> Initiated Fall 2015
   <div class="row">
     <div class="column4">
       <div class="container">
@@ -1287,7 +1289,7 @@ const IndexPage = () => (
     </div>
   </div>
 
-  <h1> Founding Class </h1>
+  <h2> Founding Class </h2>
   <div class="row">
     <div class="column4">
       <div class="container">
@@ -1554,6 +1556,7 @@ const IndexPage = () => (
       </div>
     </div>
   </div>
+
   </div>
   </Layout>
 )
